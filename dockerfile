@@ -1,2 +1,2 @@
 FROM php:7.4-cli   
-CMD [ "php", "./your-script.php" ]
+CMD [ "php", "./index.php" ]
